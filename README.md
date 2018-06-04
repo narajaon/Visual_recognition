@@ -10,13 +10,13 @@ After cloning it, launch the `.xcworkspace` with XCode. You may need to install 
 
 This is the home screen, a collection of images
 
-<img src="https://github.ibm.com/ibm-ix-france/coreML-Watson/blob/master/readmePics/Gallery.png" width="200" height="350"/>
+<img src="https://github.com/narajaon/Visual_recognition/blob/master/readmePics/Gallery.png" width="200" height="350"/>
 Select an image to display how Watson categorized it. Current categories associated with the model include : Samsung, Mac, LG and Other.
 
 Don't worry if an image has not all of the categories displayed, it just means that it's value is too small to be displayed.
 
 
-<img src="https://github.ibm.com/ibm-ix-france/coreML-Watson/blob/master/readmePics/Mac.png" width="200" height="350"/>                          <img src="https://github.ibm.com/ibm-ix-france/coreML-Watson/blob/master/readmePics/Other.png" width="200" height="350"/>
+<img src="https://github.com/narajaon/Visual_recognition/blob/master/readmePics/Mac.png" width="200" height="350"/>                          <img src="https://github.com/narajaon/Visual_recognition/blob/master/readmePics/Other.png" width="200" height="350"/>
 
 ## About the coding part
 
